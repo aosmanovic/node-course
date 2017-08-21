@@ -1,7 +1,7 @@
 # node-course
 
 
-Plying around with Node.js, PostgreSql and Sequelize
+Playing around with Node.js, PostgreSql and Sequelize
 
 References:
 1. https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
